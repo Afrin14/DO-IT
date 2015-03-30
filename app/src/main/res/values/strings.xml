@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DO IT!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">DO IT!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_fourth">View Task</string>
+    <string name="title_activity_rough">Rough</string>
+    <string name="title_activity_fifth">Edit Task</string>
+    <string name="title_activity_rough2">Rough2</string>
+    <string name="title_activity_sixth">sixth</string>
+    <string name="title_activity_rough3">rough3</string>
+
+
+    <string name="title_activity_display_message">My Message</string>
+    <string name="title_activity_seven">Seven</string>
+    <string name="title_activity_viewresult">viewresult</string>
+</resources>
